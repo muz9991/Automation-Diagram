@@ -30,4 +30,3 @@ if updated:
     updated_file_path
 else:
     print('The specified name was not found in the diagram.')
-
